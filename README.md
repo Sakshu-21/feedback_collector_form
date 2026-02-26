@@ -1,4 +1,4 @@
-# Feedback Collector Form
+# FEEDLYTICS : Feedback Collector Form
 
 A JavaFX-based desktop application that allows students to submit course 
 feedback through a clean and interactive form. All feedback is stored 
