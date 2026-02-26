@@ -15,7 +15,7 @@ public class FeedbackForm extends Application {
     // Database
     private static final String URL = "jdbc:mysql://localhost:3306/feedbackdb";
     private static final String USER = "root";
-    private static final String PASS = "sakshi123";
+    private static final String PASS = "PASSWORD";
 
     @Override
     public void start(Stage stage) {

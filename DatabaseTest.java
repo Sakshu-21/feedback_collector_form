@@ -12,7 +12,7 @@ public class DatabaseTest {
             Connection conn = DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/feedbackdb",
                 "root",
-                "sakshi123"  // your password is empty
+                "PASSWORD"  // your password is empty
             );
 
             // 3. Just testing connection
